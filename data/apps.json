@@ -192,5 +192,325 @@
     "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/ytdlp-gui/install.sh",
     "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/ytdlp-gui/uninstall.sh",
     "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/ytdlp-gui/logo.png"
+  },
+  {
+    "app_name": "CMake",
+    "folder_name": "CMake",
+    "description": "Build system generator for C and C++ projects.",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "cmake",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "cmake",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/CMake/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/CMake/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/CMake/logo.png"
+  },
+  {
+    "app_name": "Ninja",
+    "folder_name": "Ninja",
+    "description": "Small, fast build system.",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "ninja",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "ninja",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ninja/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ninja/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ninja/logo.png"
+  },
+  {
+    "app_name": "Rust",
+    "folder_name": "Rust",
+    "description": "Rust compiler and cargo package manager.",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "rustc",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "rust",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Rust/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Rust/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Rust/logo.png"
+  },
+  {
+    "app_name": "Go",
+    "folder_name": "Go",
+    "description": "The Go programming language.",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "go",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "golang",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Go/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Go/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Go/logo.png"
+  },
+  {
+    "app_name": "PHP",
+    "folder_name": "PHP",
+    "description": "PHP scripting language.",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "php",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "php",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/PHP/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/PHP/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/PHP/logo.png"
+  },
+  {
+    "app_name": "Ruby",
+    "folder_name": "Ruby",
+    "description": "Ruby programming language.",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "ruby",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "ruby",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ruby/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ruby/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ruby/logo.png"
+  },
+  {
+    "app_name": "LLDB",
+    "folder_name": "LLDB",
+    "description": "LLVM debugger.",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "lldb",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "lldb",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/LLDB/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/LLDB/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/LLDB/logo.png"
+  },
+  {
+    "app_name": "Android Tools",
+    "folder_name": "Android-tools",
+    "description": "ADB and fastboot for Android development.",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "adb",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "android-tools",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Android-tools/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Android-tools/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Android-tools/logo.png"
+  },
+  {
+    "app_name": "Git LFS",
+    "folder_name": "Git-LFS",
+    "description": "Git large file storage.",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "git-lfs",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "git-lfs",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Git-LFS/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Git-LFS/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Git-LFS/logo.png"
+  },
+  {
+    "app_name": "Vim",
+    "folder_name": "Vim",
+    "description": "Powerful modal text editor.",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "vim",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "vim",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Vim/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Vim/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Vim/logo.png"
+  },
+  {
+    "app_name": "Micro",
+    "folder_name": "Micro",
+    "description": "Easy to use terminal text editor.",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "micro",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "micro",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Micro/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Micro/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Micro/logo.png"
+  },
+  {
+    "app_name": "Helix",
+    "folder_name": "Helix",
+    "description": "Modern modal terminal editor.",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "hx",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "helix",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Helix/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Helix/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Helix/logo.png"
+  },
+  {
+    "app_name": "Emacs",
+    "folder_name": "Emacs",
+    "description": "Extensible text editor.",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "emacs",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "emacs",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Emacs/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Emacs/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Emacs/logo.png"
+  },
+  {
+    "app_name": "Code OSS",
+    "folder_name": "Code-OSS",
+    "description": "Open-source Visual Studio Code editor.",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "code-oss",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "code-oss",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Code-OSS/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Code-OSS/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Code-OSS/logo.png"
+  },
+  {
+    "app_name": "Code::Blocks",
+    "folder_name": "CodeBlocks",
+    "description": "C and C++ IDE.",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "codeblocks",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "codeblocks",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/CodeBlocks/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/CodeBlocks/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/CodeBlocks/logo.png"
+  },
+  {
+    "app_name": "Meld",
+    "folder_name": "Meld",
+    "description": "Visual diff and merge tool.",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "meld",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "meld",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Meld/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Meld/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Meld/logo.png"
+  },
+  {
+    "app_name": "Ollama",
+    "folder_name": "Ollama",
+    "description": "Run local AI models.",
+    "categories": [
+      "Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "ollama",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "ollama",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ollama/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ollama/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ollama/logo.png"
+  },
+  {
+    "app_name": "tmux",
+    "folder_name": "tmux",
+    "description": "Terminal multiplexer.",
+    "categories": [
+      "Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "tmux",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "tmux",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/tmux/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/tmux/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/tmux/logo.png"
+  },
+  {
+    "app_name": "htop",
+    "folder_name": "htop",
+    "description": "Interactive process viewer.",
+    "categories": [
+      "Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "htop",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "htop",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/htop/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/htop/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/htop/logo.png"
+  },
+  {
+    "app_name": "btop",
+    "folder_name": "btop",
+    "description": "Resource monitor.",
+    "categories": [
+      "Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "btop",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "btop",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/btop/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/btop/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/btop/logo.png"
   }
 ]
