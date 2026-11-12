@@ -4,7 +4,8 @@
     "folder_name": "Nvchad",
     "description": "Blazing fast Neovim config providing solid defaults and a beautiful UI",
     "categories": [
-      "Development"
+      "Development",
+      "Code Editors"
     ],
     "app_type": "native",
     "run_cmd": "nvim",
@@ -20,7 +21,8 @@
     "folder_name": "Mousepad",
     "description": "Simple and fast text editor.",
     "categories": [
-      "Accessories"
+      "Accessories",
+      "Code Editors"
     ],
     "app_type": "native",
     "run_cmd": "mousepad",
@@ -36,7 +38,9 @@
     "folder_name": "Geany",
     "description": "Lightweight IDE and code editor.",
     "categories": [
-      "Development"
+      "Development",
+      "IDEs",
+      "Code Editors"
     ],
     "app_type": "native",
     "run_cmd": "geany",
@@ -198,7 +202,8 @@
     "folder_name": "CMake",
     "description": "Build system generator for C and C++ projects.",
     "categories": [
-      "Development"
+      "Development",
+      "Programming Languages"
     ],
     "app_type": "native",
     "run_cmd": "cmake",
@@ -214,7 +219,8 @@
     "folder_name": "Ninja",
     "description": "Small, fast build system.",
     "categories": [
-      "Development"
+      "Development",
+      "Programming Languages"
     ],
     "app_type": "native",
     "run_cmd": "ninja",
@@ -230,7 +236,8 @@
     "folder_name": "Rust",
     "description": "Rust compiler and cargo package manager.",
     "categories": [
-      "Development"
+      "Development",
+      "Programming Languages"
     ],
     "app_type": "native",
     "run_cmd": "rustc",
@@ -246,7 +253,8 @@
     "folder_name": "Go",
     "description": "The Go programming language.",
     "categories": [
-      "Development"
+      "Development",
+      "Programming Languages"
     ],
     "app_type": "native",
     "run_cmd": "go",
@@ -262,7 +270,8 @@
     "folder_name": "PHP",
     "description": "PHP scripting language.",
     "categories": [
-      "Development"
+      "Development",
+      "Programming Languages"
     ],
     "app_type": "native",
     "run_cmd": "php",
@@ -278,7 +287,8 @@
     "folder_name": "Ruby",
     "description": "Ruby programming language.",
     "categories": [
-      "Development"
+      "Development",
+      "Programming Languages"
     ],
     "app_type": "native",
     "run_cmd": "ruby",
@@ -294,7 +304,8 @@
     "folder_name": "LLDB",
     "description": "LLVM debugger.",
     "categories": [
-      "Development"
+      "Development",
+      "Programming Languages"
     ],
     "app_type": "native",
     "run_cmd": "lldb",
@@ -310,7 +321,8 @@
     "folder_name": "Android-tools",
     "description": "ADB and fastboot for Android development.",
     "categories": [
-      "Development"
+      "Development",
+      "Mobile Development"
     ],
     "app_type": "native",
     "run_cmd": "adb",
@@ -326,7 +338,8 @@
     "folder_name": "Git-LFS",
     "description": "Git large file storage.",
     "categories": [
-      "Development"
+      "Development",
+      "Git & Version Control"
     ],
     "app_type": "native",
     "run_cmd": "git-lfs",
@@ -342,7 +355,8 @@
     "folder_name": "Vim",
     "description": "Powerful modal text editor.",
     "categories": [
-      "Development"
+      "Development",
+      "Code Editors"
     ],
     "app_type": "native",
     "run_cmd": "vim",
@@ -358,7 +372,8 @@
     "folder_name": "Micro",
     "description": "Easy to use terminal text editor.",
     "categories": [
-      "Development"
+      "Development",
+      "Code Editors"
     ],
     "app_type": "native",
     "run_cmd": "micro",
@@ -374,7 +389,8 @@
     "folder_name": "Helix",
     "description": "Modern modal terminal editor.",
     "categories": [
-      "Development"
+      "Development",
+      "Code Editors"
     ],
     "app_type": "native",
     "run_cmd": "hx",
@@ -390,7 +406,8 @@
     "folder_name": "Emacs",
     "description": "Extensible text editor.",
     "categories": [
-      "Development"
+      "Development",
+      "Code Editors"
     ],
     "app_type": "native",
     "run_cmd": "emacs",
@@ -406,7 +423,9 @@
     "folder_name": "Code-OSS",
     "description": "Open-source Visual Studio Code editor.",
     "categories": [
-      "Development"
+      "Development",
+      "Code Editors",
+      "IDEs"
     ],
     "app_type": "native",
     "run_cmd": "code-oss",
@@ -422,7 +441,8 @@
     "folder_name": "CodeBlocks",
     "description": "C and C++ IDE.",
     "categories": [
-      "Development"
+      "Development",
+      "IDEs"
     ],
     "app_type": "native",
     "run_cmd": "codeblocks",
@@ -438,7 +458,8 @@
     "folder_name": "Meld",
     "description": "Visual diff and merge tool.",
     "categories": [
-      "Development"
+      "Development",
+      "Git & Version Control"
     ],
     "app_type": "native",
     "run_cmd": "meld",
@@ -454,7 +475,9 @@
     "folder_name": "Ollama",
     "description": "Run local AI models.",
     "categories": [
-      "Utilities"
+      "Utilities",
+      "AI Assistants",
+      "Data Science & AI"
     ],
     "app_type": "native",
     "run_cmd": "ollama",
@@ -470,7 +493,8 @@
     "folder_name": "tmux",
     "description": "Terminal multiplexer.",
     "categories": [
-      "Utilities"
+      "Utilities",
+      "Terminals"
     ],
     "app_type": "native",
     "run_cmd": "tmux",
@@ -486,7 +510,8 @@
     "folder_name": "htop",
     "description": "Interactive process viewer.",
     "categories": [
-      "Utilities"
+      "Utilities",
+      "Monitoring"
     ],
     "app_type": "native",
     "run_cmd": "htop",
@@ -502,7 +527,8 @@
     "folder_name": "btop",
     "description": "Resource monitor.",
     "categories": [
-      "Utilities"
+      "Utilities",
+      "Monitoring"
     ],
     "app_type": "native",
     "run_cmd": "btop",
