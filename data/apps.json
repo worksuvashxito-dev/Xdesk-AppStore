@@ -512,5 +512,2420 @@
     "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/btop/install.sh",
     "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/btop/uninstall.sh",
     "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/btop/logo.png"
+  },
+  {
+    "app_name": "Kakoune",
+    "folder_name": "Kakoune",
+    "description": "Modal code editor inspired by Vim",
+    "categories": [
+      "Code Editors",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "kak",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "kakoune",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Kakoune/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Kakoune/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Kakoune/logo.png"
+  },
+  {
+    "app_name": "Nano",
+    "folder_name": "Nano",
+    "description": "Small and friendly terminal text editor",
+    "categories": [
+      "Code Editors",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "nano",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "nano",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Nano/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Nano/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Nano/logo.png"
+  },
+  {
+    "app_name": "Zed",
+    "folder_name": "Zed",
+    "description": "High-performance multiplayer code editor",
+    "categories": [
+      "Code Editors",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "zeditor",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "zed",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Zed/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Zed/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Zed/logo.png"
+  },
+  {
+    "app_name": "Nodejs",
+    "folder_name": "Nodejs",
+    "description": "JavaScript runtime built on V8",
+    "categories": [
+      "Programming Languages",
+      "Web Development",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "node",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "nodejs",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Nodejs/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Nodejs/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Nodejs/logo.png"
+  },
+  {
+    "app_name": "Bun",
+    "folder_name": "Bun",
+    "description": "Fast JavaScript runtime, bundler and package manager",
+    "categories": [
+      "Programming Languages",
+      "Web Development",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "bun",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "bun",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Bun/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Bun/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Bun/logo.png"
+  },
+  {
+    "app_name": "Deno",
+    "folder_name": "Deno",
+    "description": "Secure runtime for JavaScript and TypeScript",
+    "categories": [
+      "Programming Languages",
+      "Web Development",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "deno",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "deno",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Deno/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Deno/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Deno/logo.png"
+  },
+  {
+    "app_name": "Python",
+    "folder_name": "Python",
+    "description": "Python programming language",
+    "categories": [
+      "Programming Languages",
+      "Data Science & AI",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "python",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "python",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Python/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Python/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Python/logo.png"
+  },
+  {
+    "app_name": "DotNET SDK 8",
+    "folder_name": "DotNET-SDK-8",
+    "description": "Microsoft .NET 8 SDK",
+    "categories": [
+      "Programming Languages",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "dotnet",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "dotnet-sdk-8.0",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/DotNET-SDK-8/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/DotNET-SDK-8/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/DotNET-SDK-8/logo.png"
+  },
+  {
+    "app_name": "GCC",
+    "folder_name": "GCC",
+    "description": "GNU Compiler Collection (C and C++)",
+    "categories": [
+      "Programming Languages",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "gcc-14",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "gcc-14",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/GCC/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/GCC/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/GCC/logo.png"
+  },
+  {
+    "app_name": "Clang",
+    "folder_name": "Clang",
+    "description": "C, C++ and Objective-C compiler (LLVM)",
+    "categories": [
+      "Programming Languages",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "clang",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "clang",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Clang/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Clang/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Clang/logo.png"
+  },
+  {
+    "app_name": "Swift",
+    "folder_name": "Swift",
+    "description": "Swift programming language",
+    "categories": [
+      "Programming Languages",
+      "Mobile Development",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "swift",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "swift",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Swift/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Swift/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Swift/logo.png"
+  },
+  {
+    "app_name": "Dart SDK",
+    "folder_name": "Dart-SDK",
+    "description": "Dart programming language SDK",
+    "categories": [
+      "Programming Languages",
+      "Mobile Development",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "dart",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "dart",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Dart-SDK/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Dart-SDK/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Dart-SDK/logo.png"
+  },
+  {
+    "app_name": "Elixir",
+    "folder_name": "Elixir",
+    "description": "Dynamic functional language for scalable apps",
+    "categories": [
+      "Programming Languages",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "elixir",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "elixir",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Elixir/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Elixir/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Elixir/logo.png"
+  },
+  {
+    "app_name": "Erlang",
+    "folder_name": "Erlang",
+    "description": "Language for concurrent, fault-tolerant systems",
+    "categories": [
+      "Programming Languages",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "erl",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "erlang",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Erlang/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Erlang/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Erlang/logo.png"
+  },
+  {
+    "app_name": "Perl",
+    "folder_name": "Perl",
+    "description": "Perl programming language",
+    "categories": [
+      "Programming Languages",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "perl",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "perl",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Perl/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Perl/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Perl/logo.png"
+  },
+  {
+    "app_name": "Lua",
+    "folder_name": "Lua",
+    "description": "Lua 5.4 scripting language",
+    "categories": [
+      "Programming Languages",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "lua5.4",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "lua54",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Lua/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Lua/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Lua/logo.png"
+  },
+  {
+    "app_name": "LuaJIT",
+    "folder_name": "LuaJIT",
+    "description": "Just-in-time compiler for Lua",
+    "categories": [
+      "Programming Languages",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "luajit",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "luajit",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/LuaJIT/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/LuaJIT/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/LuaJIT/logo.png"
+  },
+  {
+    "app_name": "R Language",
+    "folder_name": "R-Language",
+    "description": "R language for statistical computing",
+    "categories": [
+      "Programming Languages",
+      "Data Science & AI"
+    ],
+    "app_type": "native",
+    "run_cmd": "R",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "r-base",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/R-Language/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/R-Language/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/R-Language/logo.png"
+  },
+  {
+    "app_name": "Zig",
+    "folder_name": "Zig",
+    "description": "Zig programming language and toolchain",
+    "categories": [
+      "Programming Languages",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "zig",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "zig",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Zig/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Zig/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Zig/logo.png"
+  },
+  {
+    "app_name": "Git",
+    "folder_name": "Git",
+    "description": "Distributed version control system",
+    "categories": [
+      "Git & Version Control",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "git",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "git",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Git/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Git/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Git/logo.png"
+  },
+  {
+    "app_name": "GitHub CLI",
+    "folder_name": "GitHub-CLI",
+    "description": "GitHub on the command line",
+    "categories": [
+      "Git & Version Control",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "gh",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "gh",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/GitHub-CLI/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/GitHub-CLI/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/GitHub-CLI/logo.png"
+  },
+  {
+    "app_name": "Lazygit",
+    "folder_name": "Lazygit",
+    "description": "Simple terminal UI for git",
+    "categories": [
+      "Git & Version Control",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "lazygit",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "lazygit",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Lazygit/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Lazygit/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Lazygit/logo.png"
+  },
+  {
+    "app_name": "Tig",
+    "folder_name": "Tig",
+    "description": "Text-mode interface for git",
+    "categories": [
+      "Git & Version Control",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "tig",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "tig",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Tig/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Tig/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Tig/logo.png"
+  },
+  {
+    "app_name": "Gitui",
+    "folder_name": "Gitui",
+    "description": "Fast terminal UI for git",
+    "categories": [
+      "Git & Version Control",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "gitui",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "gitui",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Gitui/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Gitui/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Gitui/logo.png"
+  },
+  {
+    "app_name": "Alacritty",
+    "folder_name": "Alacritty",
+    "description": "GPU-accelerated terminal emulator",
+    "categories": [
+      "Terminals",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "alacritty",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "alacritty",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Alacritty/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Alacritty/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Alacritty/logo.png"
+  },
+  {
+    "app_name": "Kitty",
+    "folder_name": "Kitty",
+    "description": "Fast, feature-rich GPU terminal",
+    "categories": [
+      "Terminals",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "kitty",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "kitty",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Kitty/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Kitty/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Kitty/logo.png"
+  },
+  {
+    "app_name": "Foot",
+    "folder_name": "Foot",
+    "description": "Fast, lightweight Wayland terminal",
+    "categories": [
+      "Terminals"
+    ],
+    "app_type": "native",
+    "run_cmd": "foot",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "foot",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Foot/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Foot/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Foot/logo.png"
+  },
+  {
+    "app_name": "Zellij",
+    "folder_name": "Zellij",
+    "description": "Terminal workspace and multiplexer",
+    "categories": [
+      "Terminals",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "zellij",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "zellij",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Zellij/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Zellij/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Zellij/logo.png"
+  },
+  {
+    "app_name": "Zsh",
+    "folder_name": "Zsh",
+    "description": "Z shell",
+    "categories": [
+      "Terminals",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "zsh",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "zsh",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Zsh/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Zsh/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Zsh/logo.png"
+  },
+  {
+    "app_name": "Fish Shell",
+    "folder_name": "Fish-Shell",
+    "description": "Friendly interactive shell",
+    "categories": [
+      "Terminals",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "fish",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "fish",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Fish-Shell/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Fish-Shell/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Fish-Shell/logo.png"
+  },
+  {
+    "app_name": "Starship",
+    "folder_name": "Starship",
+    "description": "Minimal, fast, customizable prompt",
+    "categories": [
+      "Terminals",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "starship",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "starship",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Starship/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Starship/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Starship/logo.png"
+  },
+  {
+    "app_name": "Nushell",
+    "folder_name": "Nushell",
+    "description": "Modern shell with structured data",
+    "categories": [
+      "Terminals",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "nu",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "nushell",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Nushell/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Nushell/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Nushell/logo.png"
+  },
+  {
+    "app_name": "Oh My Posh",
+    "folder_name": "Oh-My-Posh",
+    "description": "Prompt theme engine for any shell",
+    "categories": [
+      "Terminals",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "oh-my-posh",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "oh-my-posh",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Oh-My-Posh/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Oh-My-Posh/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Oh-My-Posh/logo.png"
+  },
+  {
+    "app_name": "SQLite",
+    "folder_name": "SQLite",
+    "description": "Self-contained SQL database engine",
+    "categories": [
+      "Databases",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "sqlite3",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "sqlite",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/SQLite/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/SQLite/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/SQLite/logo.png"
+  },
+  {
+    "app_name": "PostgreSQL",
+    "folder_name": "PostgreSQL",
+    "description": "Advanced open-source relational database",
+    "categories": [
+      "Databases",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "psql",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "postgresql",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/PostgreSQL/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/PostgreSQL/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/PostgreSQL/logo.png"
+  },
+  {
+    "app_name": "MariaDB",
+    "folder_name": "MariaDB",
+    "description": "Community MySQL-compatible database",
+    "categories": [
+      "Databases",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "mariadb",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "mariadb",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/MariaDB/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/MariaDB/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/MariaDB/logo.png"
+  },
+  {
+    "app_name": "Redis",
+    "folder_name": "Redis",
+    "description": "In-memory data store",
+    "categories": [
+      "Databases",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "redis-server",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "redis",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Redis/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Redis/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Redis/logo.png"
+  },
+  {
+    "app_name": "MongoDB",
+    "folder_name": "MongoDB",
+    "description": "Document-oriented NoSQL database",
+    "categories": [
+      "Databases",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "mongod",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "mongodb",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/MongoDB/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/MongoDB/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/MongoDB/logo.png"
+  },
+  {
+    "app_name": "pgAdmin",
+    "folder_name": "pgAdmin",
+    "description": "PostgreSQL administration and development tool",
+    "categories": [
+      "Databases",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "pgadmin4",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "pgadmin4",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/pgAdmin/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/pgAdmin/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/pgAdmin/logo.png"
+  },
+  {
+    "app_name": "HTTPie",
+    "folder_name": "HTTPie",
+    "description": "Human-friendly HTTP client",
+    "categories": [
+      "API Development",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "http",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "httpie",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/HTTPie/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/HTTPie/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/HTTPie/logo.png"
+  },
+  {
+    "app_name": "K6",
+    "folder_name": "K6",
+    "description": "Load testing tool for developers",
+    "categories": [
+      "API Development",
+      "Testing & QA",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "k6",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "k6",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/K6/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/K6/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/K6/logo.png"
+  },
+  {
+    "app_name": "Grpcurl",
+    "folder_name": "Grpcurl",
+    "description": "curl for gRPC servers",
+    "categories": [
+      "API Development",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "grpcurl",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "grpcurl",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Grpcurl/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Grpcurl/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Grpcurl/logo.png"
+  },
+  {
+    "app_name": "Hurl",
+    "folder_name": "Hurl",
+    "description": "Run and test HTTP requests from plain text",
+    "categories": [
+      "API Development",
+      "Testing & QA",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "hurl",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "hurl",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Hurl/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Hurl/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Hurl/logo.png"
+  },
+  {
+    "app_name": "Kubectl",
+    "folder_name": "Kubectl",
+    "description": "Kubernetes command-line tool",
+    "categories": [
+      "DevOps & Containers",
+      "Cloud & Deployment",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "kubectl",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "kubectl",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Kubectl/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Kubectl/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Kubectl/logo.png"
+  },
+  {
+    "app_name": "Helm",
+    "folder_name": "Helm",
+    "description": "Kubernetes package manager",
+    "categories": [
+      "DevOps & Containers",
+      "Cloud & Deployment",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "helm",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "helm",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Helm/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Helm/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Helm/logo.png"
+  },
+  {
+    "app_name": "Minikube",
+    "folder_name": "Minikube",
+    "description": "Run Kubernetes locally",
+    "categories": [
+      "DevOps & Containers",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "minikube",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "minikube",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Minikube/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Minikube/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Minikube/logo.png"
+  },
+  {
+    "app_name": "K9s",
+    "folder_name": "K9s",
+    "description": "Terminal UI for Kubernetes",
+    "categories": [
+      "DevOps & Containers",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "k9s",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "k9s",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/K9s/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/K9s/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/K9s/logo.png"
+  },
+  {
+    "app_name": "AWS CLI",
+    "folder_name": "AWS-CLI",
+    "description": "Amazon Web Services command line",
+    "categories": [
+      "Cloud & Deployment",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "aws",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "awscli",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/AWS-CLI/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/AWS-CLI/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/AWS-CLI/logo.png"
+  },
+  {
+    "app_name": "Azure CLI",
+    "folder_name": "Azure-CLI",
+    "description": "Microsoft Azure command line",
+    "categories": [
+      "Cloud & Deployment",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "az",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "azure-cli",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Azure-CLI/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Azure-CLI/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Azure-CLI/logo.png"
+  },
+  {
+    "app_name": "ESBuild",
+    "folder_name": "ESBuild",
+    "description": "Extremely fast JavaScript bundler",
+    "categories": [
+      "Web Development",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "esbuild",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "esbuild",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/ESBuild/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/ESBuild/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/ESBuild/logo.png"
+  },
+  {
+    "app_name": "Sassc",
+    "folder_name": "Sassc",
+    "description": "Sass compiler",
+    "categories": [
+      "Web Development",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "sassc",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "sassc",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Sassc/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Sassc/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Sassc/logo.png"
+  },
+  {
+    "app_name": "Pnpm",
+    "folder_name": "Pnpm",
+    "description": "Fast, disk-efficient package manager",
+    "categories": [
+      "Web Development",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "pnpm",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "pnpm",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Pnpm/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Pnpm/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Pnpm/logo.png"
+  },
+  {
+    "app_name": "Yarn",
+    "folder_name": "Yarn",
+    "description": "JavaScript package manager",
+    "categories": [
+      "Web Development",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "yarn",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "yarn",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Yarn/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Yarn/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Yarn/logo.png"
+  },
+  {
+    "app_name": "Gitleaks",
+    "folder_name": "Gitleaks",
+    "description": "Detect secrets in git repos",
+    "categories": [
+      "Security",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "gitleaks",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "gitleaks",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Gitleaks/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Gitleaks/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Gitleaks/logo.png"
+  },
+  {
+    "app_name": "Nmap",
+    "folder_name": "Nmap",
+    "description": "Network discovery and security scanner",
+    "categories": [
+      "Security",
+      "Server Administration"
+    ],
+    "app_type": "native",
+    "run_cmd": "nmap",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "nmap",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Nmap/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Nmap/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Nmap/logo.png"
+  },
+  {
+    "app_name": "OpenSSL",
+    "folder_name": "OpenSSL",
+    "description": "Cryptography toolkit",
+    "categories": [
+      "Security",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "openssl",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "openssl",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/OpenSSL/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/OpenSSL/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/OpenSSL/logo.png"
+  },
+  {
+    "app_name": "GnuPG",
+    "folder_name": "GnuPG",
+    "description": "GNU Privacy Guard",
+    "categories": [
+      "Security",
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "gpg",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "gnupg",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/GnuPG/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/GnuPG/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/GnuPG/logo.png"
+  },
+  {
+    "app_name": "Age",
+    "folder_name": "Age",
+    "description": "Simple, modern file encryption",
+    "categories": [
+      "Security"
+    ],
+    "app_type": "native",
+    "run_cmd": "age",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "age",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Age/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Age/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Age/logo.png"
+  },
+  {
+    "app_name": "Grafana",
+    "folder_name": "Grafana",
+    "description": "Observability and dashboards",
+    "categories": [
+      "Monitoring",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "grafana",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "grafana",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Grafana/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Grafana/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Grafana/logo.png"
+  },
+  {
+    "app_name": "Pandoc",
+    "folder_name": "Pandoc",
+    "description": "Universal document converter",
+    "categories": [
+      "Documentation",
+      "Productivity"
+    ],
+    "app_type": "native",
+    "run_cmd": "pandoc",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "pandoc",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Pandoc/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Pandoc/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Pandoc/logo.png"
+  },
+  {
+    "app_name": "Graphviz",
+    "folder_name": "Graphviz",
+    "description": "Graph visualization software",
+    "categories": [
+      "Documentation",
+      "Design & Prototyping"
+    ],
+    "app_type": "native",
+    "run_cmd": "dot",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "graphviz",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Graphviz/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Graphviz/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Graphviz/logo.png"
+  },
+  {
+    "app_name": "Make",
+    "folder_name": "Make",
+    "description": "GNU make build tool",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "make",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "make",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Make/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Make/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Make/logo.png"
+  },
+  {
+    "app_name": "NASM",
+    "folder_name": "NASM",
+    "description": "Netwide assembler",
+    "categories": [
+      "Development",
+      "Programming Languages"
+    ],
+    "app_type": "native",
+    "run_cmd": "nasm",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "nasm",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/NASM/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/NASM/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/NASM/logo.png"
+  },
+  {
+    "app_name": "GDB",
+    "folder_name": "GDB",
+    "description": "GNU debugger",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "gdb",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "gdb",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/GDB/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/GDB/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/GDB/logo.png"
+  },
+  {
+    "app_name": "Scrcpy",
+    "folder_name": "Scrcpy",
+    "description": "Display and control Android devices",
+    "categories": [
+      "Mobile Development",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "scrcpy",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "scrcpy",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Scrcpy/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Scrcpy/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Scrcpy/logo.png"
+  },
+  {
+    "app_name": "Shellcheck",
+    "folder_name": "Shellcheck",
+    "description": "Static analysis for shell scripts",
+    "categories": [
+      "Testing & QA",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "shellcheck",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "shellcheck",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Shellcheck/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Shellcheck/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Shellcheck/logo.png"
+  },
+  {
+    "app_name": "Shfmt",
+    "folder_name": "Shfmt",
+    "description": "Shell script formatter",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "shfmt",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "shfmt",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Shfmt/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Shfmt/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Shfmt/logo.png"
+  },
+  {
+    "app_name": "Rust Analyzer",
+    "folder_name": "Rust-Analyzer",
+    "description": "Rust language server",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "rust-analyzer",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "rust-analyzer",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Rust-Analyzer/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Rust-Analyzer/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Rust-Analyzer/logo.png"
+  },
+  {
+    "app_name": "Gopls",
+    "folder_name": "Gopls",
+    "description": "Go language server",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "gopls",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "gopls",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Gopls/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Gopls/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Gopls/logo.png"
+  },
+  {
+    "app_name": "Universal Ctags",
+    "folder_name": "Universal-Ctags",
+    "description": "Source code tag generator",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "ctags",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "ctags",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Universal-Ctags/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Universal-Ctags/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Universal-Ctags/logo.png"
+  },
+  {
+    "app_name": "OpenSSH",
+    "folder_name": "OpenSSH",
+    "description": "Secure shell client and server",
+    "categories": [
+      "Server Administration"
+    ],
+    "app_type": "native",
+    "run_cmd": "ssh",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "openssh",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/OpenSSH/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/OpenSSH/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/OpenSSH/logo.png"
+  },
+  {
+    "app_name": "Rclone",
+    "folder_name": "Rclone",
+    "description": "Sync files to cloud storage",
+    "categories": [
+      "Server Administration",
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "rclone",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "rclone",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Rclone/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Rclone/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Rclone/logo.png"
+  },
+  {
+    "app_name": "Restic",
+    "folder_name": "Restic",
+    "description": "Fast, secure backup program",
+    "categories": [
+      "Server Administration",
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "restic",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "restic",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Restic/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Restic/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Restic/logo.png"
+  },
+  {
+    "app_name": "BorgBackup",
+    "folder_name": "BorgBackup",
+    "description": "Deduplicating backup program",
+    "categories": [
+      "Server Administration",
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "borg",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "borgbackup",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/BorgBackup/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/BorgBackup/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/BorgBackup/logo.png"
+  },
+  {
+    "app_name": "Firefox",
+    "folder_name": "Firefox",
+    "description": "Mozilla Firefox web browser",
+    "categories": [
+      "Internet"
+    ],
+    "app_type": "native",
+    "run_cmd": "firefox",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "firefox",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Firefox/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Firefox/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Firefox/logo.png"
+  },
+  {
+    "app_name": "Chromium",
+    "folder_name": "Chromium",
+    "description": "Open-source Chromium web browser",
+    "categories": [
+      "Internet"
+    ],
+    "app_type": "native",
+    "run_cmd": "chromium-browser",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "chromium",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Chromium/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Chromium/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Chromium/logo.png"
+  },
+  {
+    "app_name": "Epiphany",
+    "folder_name": "Epiphany",
+    "description": "GNOME web browser",
+    "categories": [
+      "Internet"
+    ],
+    "app_type": "native",
+    "run_cmd": "epiphany",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "epiphany",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Epiphany/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Epiphany/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Epiphany/logo.png"
+  },
+  {
+    "app_name": "GIMP",
+    "folder_name": "GIMP",
+    "description": "GNU Image Manipulation Program",
+    "categories": [
+      "Design & Prototyping",
+      "Multimedia"
+    ],
+    "app_type": "native",
+    "run_cmd": "gimp",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "gimp",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/GIMP/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/GIMP/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/GIMP/logo.png"
+  },
+  {
+    "app_name": "Inkscape",
+    "folder_name": "Inkscape",
+    "description": "Vector graphics editor",
+    "categories": [
+      "Design & Prototyping",
+      "Multimedia"
+    ],
+    "app_type": "native",
+    "run_cmd": "inkscape",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "inkscape",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Inkscape/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Inkscape/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Inkscape/logo.png"
+  },
+  {
+    "app_name": "VLC",
+    "folder_name": "VLC",
+    "description": "Universal media player",
+    "categories": [
+      "Multimedia"
+    ],
+    "app_type": "native",
+    "run_cmd": "vlc",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "vlc",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/VLC/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/VLC/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/VLC/logo.png"
+  },
+  {
+    "app_name": "FFmpeg",
+    "folder_name": "FFmpeg",
+    "description": "Audio and video converter",
+    "categories": [
+      "Multimedia",
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "ffmpeg",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "ffmpeg",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/FFmpeg/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/FFmpeg/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/FFmpeg/logo.png"
+  },
+  {
+    "app_name": "ImageMagick",
+    "folder_name": "ImageMagick",
+    "description": "Image editing and conversion",
+    "categories": [
+      "Design & Prototyping",
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "magick",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "imagemagick",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/ImageMagick/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/ImageMagick/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/ImageMagick/logo.png"
+  },
+  {
+    "app_name": "7 Zip",
+    "folder_name": "7-Zip",
+    "description": "File archiver with high compression",
+    "categories": [
+      "System Utilities",
+      "Accessories"
+    ],
+    "app_type": "native",
+    "run_cmd": "7z",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "7zip",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/7-Zip/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/7-Zip/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/7-Zip/logo.png"
+  },
+  {
+    "app_name": "Ripgrep",
+    "folder_name": "Ripgrep",
+    "description": "Fast recursive grep",
+    "categories": [
+      "System Utilities",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "rg",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "ripgrep",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ripgrep/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ripgrep/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ripgrep/logo.png"
+  },
+  {
+    "app_name": "Fd",
+    "folder_name": "Fd",
+    "description": "Fast and user-friendly find",
+    "categories": [
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "fd",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "fd",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Fd/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Fd/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Fd/logo.png"
+  },
+  {
+    "app_name": "Fzf",
+    "folder_name": "Fzf",
+    "description": "Command-line fuzzy finder",
+    "categories": [
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "fzf",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "fzf",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Fzf/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Fzf/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Fzf/logo.png"
+  },
+  {
+    "app_name": "Bat",
+    "folder_name": "Bat",
+    "description": "cat with syntax highlighting",
+    "categories": [
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "bat",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "bat",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Bat/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Bat/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Bat/logo.png"
+  },
+  {
+    "app_name": "Eza",
+    "folder_name": "Eza",
+    "description": "Modern replacement for ls",
+    "categories": [
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "eza",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "eza",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Eza/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Eza/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Eza/logo.png"
+  },
+  {
+    "app_name": "Jq",
+    "folder_name": "Jq",
+    "description": "Command-line JSON processor",
+    "categories": [
+      "System Utilities",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "jq",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "jq",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Jq/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Jq/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Jq/logo.png"
+  },
+  {
+    "app_name": "Yq",
+    "folder_name": "Yq",
+    "description": "YAML processor",
+    "categories": [
+      "System Utilities",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "yq",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "yq",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Yq/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Yq/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Yq/logo.png"
+  },
+  {
+    "app_name": "Ncdu",
+    "folder_name": "Ncdu",
+    "description": "Disk usage analyzer",
+    "categories": [
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "ncdu",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "ncdu",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ncdu/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ncdu/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ncdu/logo.png"
+  },
+  {
+    "app_name": "Curl",
+    "folder_name": "Curl",
+    "description": "Transfer data with URLs",
+    "categories": [
+      "System Utilities",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "curl",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "curl",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Curl/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Curl/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Curl/logo.png"
+  },
+  {
+    "app_name": "Wget",
+    "folder_name": "Wget",
+    "description": "Network downloader",
+    "categories": [
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "wget",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "wget",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Wget/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Wget/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Wget/logo.png"
+  },
+  {
+    "app_name": "Rsync",
+    "folder_name": "Rsync",
+    "description": "Fast incremental file transfer",
+    "categories": [
+      "System Utilities",
+      "Server Administration"
+    ],
+    "app_type": "native",
+    "run_cmd": "rsync",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "rsync",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Rsync/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Rsync/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Rsync/logo.png"
+  },
+  {
+    "app_name": "Fastfetch",
+    "folder_name": "Fastfetch",
+    "description": "System information tool",
+    "categories": [
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "fastfetch",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "fastfetch",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Fastfetch/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Fastfetch/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Fastfetch/logo.png"
+  },
+  {
+    "app_name": "Zoxide",
+    "folder_name": "Zoxide",
+    "description": "Smarter cd command",
+    "categories": [
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "zoxide",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "zoxide",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Zoxide/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Zoxide/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Zoxide/logo.png"
+  },
+  {
+    "app_name": "Tealdeer",
+    "folder_name": "Tealdeer",
+    "description": "Simplified command help pages",
+    "categories": [
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "tldr",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "tealdeer",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Tealdeer/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Tealdeer/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Tealdeer/logo.png"
+  },
+  {
+    "app_name": "Yazi",
+    "folder_name": "Yazi",
+    "description": "Blazing fast terminal file manager",
+    "categories": [
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "yazi",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "yazi",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Yazi/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Yazi/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Yazi/logo.png"
+  },
+  {
+    "app_name": "Midnight Commander",
+    "folder_name": "Midnight-Commander",
+    "description": "Visual file manager",
+    "categories": [
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "mc",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "mc",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Midnight-Commander/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Midnight-Commander/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Midnight-Commander/logo.png"
+  },
+  {
+    "app_name": "Ranger",
+    "folder_name": "Ranger",
+    "description": "Console file manager",
+    "categories": [
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "ranger",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "ranger",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ranger/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ranger/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Ranger/logo.png"
+  },
+  {
+    "app_name": "Glow",
+    "folder_name": "Glow",
+    "description": "Render markdown in the terminal",
+    "categories": [
+      "Documentation"
+    ],
+    "app_type": "native",
+    "run_cmd": "glow",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "glow",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Glow/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Glow/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Glow/logo.png"
+  },
+  {
+    "app_name": "Tokei",
+    "folder_name": "Tokei",
+    "description": "Count lines of code",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "tokei",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "tokei",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Tokei/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Tokei/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Tokei/logo.png"
+  },
+  {
+    "app_name": "Hyperfine",
+    "folder_name": "Hyperfine",
+    "description": "Command-line benchmarking tool",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "hyperfine",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "hyperfine",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Hyperfine/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Hyperfine/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Hyperfine/logo.png"
+  },
+  {
+    "app_name": "Asciinema",
+    "folder_name": "Asciinema",
+    "description": "Record and share terminal sessions",
+    "categories": [
+      "Documentation"
+    ],
+    "app_type": "native",
+    "run_cmd": "asciinema",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "asciinema",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Asciinema/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Asciinema/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Asciinema/logo.png"
+  },
+  {
+    "app_name": "Duf",
+    "folder_name": "Duf",
+    "description": "Disk usage utility",
+    "categories": [
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "duf",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "duf",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Duf/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Duf/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Duf/logo.png"
+  },
+  {
+    "app_name": "Dust",
+    "folder_name": "Dust",
+    "description": "Intuitive du alternative",
+    "categories": [
+      "System Utilities"
+    ],
+    "app_type": "native",
+    "run_cmd": "dust",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "dust",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Dust/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Dust/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Dust/logo.png"
+  },
+  {
+    "app_name": "Uv",
+    "folder_name": "Uv",
+    "description": "Extremely fast Python package manager",
+    "categories": [
+      "Programming Languages",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "uv",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "uv",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Uv/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Uv/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Uv/logo.png"
+  },
+  {
+    "app_name": "Mise",
+    "folder_name": "Mise",
+    "description": "Polyglot dev tool version manager",
+    "categories": [
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "mise",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "mise",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Mise/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Mise/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Mise/logo.png"
+  },
+  {
+    "app_name": "Composer",
+    "folder_name": "Composer",
+    "description": "PHP dependency manager",
+    "categories": [
+      "Web Development",
+      "Development"
+    ],
+    "app_type": "native",
+    "run_cmd": "composer",
+    "supported_arch": "aarch64,arm",
+    "version": "termux_local_version",
+    "package_name": "composer",
+    "install_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Composer/install.sh",
+    "uninstall_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Composer/uninstall.sh",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Composer/logo.png"
+  },
+  {
+    "app_name": "Android Studio",
+    "folder_name": "Android-Studio",
+    "description": "Official Android IDE (Google)",
+    "categories": [
+      "Mobile Development",
+      "IDEs"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "Needs an x86-64/desktop JVM toolchain; not available for Android devices",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Android-Studio/logo.png"
+  },
+  {
+    "app_name": "Xcode",
+    "folder_name": "Xcode",
+    "description": "Apple IDE for iOS/macOS development",
+    "categories": [
+      "Mobile Development",
+      "IDEs"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "macOS only",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Xcode/logo.png"
+  },
+  {
+    "app_name": "IntelliJ IDEA",
+    "folder_name": "IntelliJ-IDEA",
+    "description": "JetBrains Java/Kotlin IDE",
+    "categories": [
+      "IDEs"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No Android/ARM Termux build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/IntelliJ-IDEA/logo.png"
+  },
+  {
+    "app_name": "PyCharm",
+    "folder_name": "PyCharm",
+    "description": "JetBrains Python IDE",
+    "categories": [
+      "IDEs"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No Android/ARM Termux build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/PyCharm/logo.png"
+  },
+  {
+    "app_name": "WebStorm",
+    "folder_name": "WebStorm",
+    "description": "JetBrains JavaScript IDE",
+    "categories": [
+      "IDEs"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No Android/ARM Termux build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/WebStorm/logo.png"
+  },
+  {
+    "app_name": "PhpStorm",
+    "folder_name": "PhpStorm",
+    "description": "JetBrains PHP IDE",
+    "categories": [
+      "IDEs"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No Android/ARM Termux build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/PhpStorm/logo.png"
+  },
+  {
+    "app_name": "CLion",
+    "folder_name": "CLion",
+    "description": "JetBrains C/C++ IDE",
+    "categories": [
+      "IDEs"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No Android/ARM Termux build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/CLion/logo.png"
+  },
+  {
+    "app_name": "GoLand",
+    "folder_name": "GoLand",
+    "description": "JetBrains Go IDE",
+    "categories": [
+      "IDEs"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No Android/ARM Termux build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/GoLand/logo.png"
+  },
+  {
+    "app_name": "Rider",
+    "folder_name": "Rider",
+    "description": "JetBrains .NET IDE",
+    "categories": [
+      "IDEs"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No Android/ARM Termux build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Rider/logo.png"
+  },
+  {
+    "app_name": "RubyMine",
+    "folder_name": "RubyMine",
+    "description": "JetBrains Ruby IDE",
+    "categories": [
+      "IDEs"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No Android/ARM Termux build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/RubyMine/logo.png"
+  },
+  {
+    "app_name": "DataGrip",
+    "folder_name": "DataGrip",
+    "description": "JetBrains database IDE",
+    "categories": [
+      "Databases",
+      "IDEs"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No Android/ARM Termux build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/DataGrip/logo.png"
+  },
+  {
+    "app_name": "Steam",
+    "folder_name": "Steam",
+    "description": "Valve game store and launcher",
+    "categories": [
+      "Internet",
+      "Multimedia"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "x86-only client; no Android/ARM build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Steam/logo.png"
+  },
+  {
+    "app_name": "Brave",
+    "folder_name": "Brave",
+    "description": "Privacy-focused web browser",
+    "categories": [
+      "Internet"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No Termux/Android-desktop ARM build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Brave/logo.png"
+  },
+  {
+    "app_name": "Google Chrome",
+    "folder_name": "Google-Chrome",
+    "description": "Google web browser",
+    "categories": [
+      "Internet"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No ARM Linux build for this environment",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Google-Chrome/logo.png"
+  },
+  {
+    "app_name": "Opera",
+    "folder_name": "Opera",
+    "description": "Opera web browser",
+    "categories": [
+      "Internet"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No Termux build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Opera/logo.png"
+  },
+  {
+    "app_name": "Docker Desktop",
+    "folder_name": "Docker-Desktop",
+    "description": "Docker GUI and engine",
+    "categories": [
+      "DevOps & Containers"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "Needs a Linux kernel with namespaces/cgroups; not available here",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Docker-Desktop/logo.png"
+  },
+  {
+    "app_name": "Figma",
+    "folder_name": "Figma",
+    "description": "Collaborative interface design tool",
+    "categories": [
+      "Design & Prototyping"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "Web/desktop app only, no Linux build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Figma/logo.png"
+  },
+  {
+    "app_name": "Sketch",
+    "folder_name": "Sketch",
+    "description": "macOS design tool",
+    "categories": [
+      "Design & Prototyping"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "macOS only",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Sketch/logo.png"
+  },
+  {
+    "app_name": "Slack",
+    "folder_name": "Slack",
+    "description": "Team chat",
+    "categories": [
+      "Internet"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No ARM Termux build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Slack/logo.png"
+  },
+  {
+    "app_name": "Discord",
+    "folder_name": "Discord",
+    "description": "Voice and text chat",
+    "categories": [
+      "Internet"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No ARM Termux build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Discord/logo.png"
+  },
+  {
+    "app_name": "Spotify",
+    "folder_name": "Spotify",
+    "description": "Music streaming",
+    "categories": [
+      "Multimedia"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No ARM Termux build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Spotify/logo.png"
+  },
+  {
+    "app_name": "Zoom",
+    "folder_name": "Zoom",
+    "description": "Video meetings",
+    "categories": [
+      "Internet"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No ARM Termux build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Zoom/logo.png"
+  },
+  {
+    "app_name": "Telegram Desktop",
+    "folder_name": "Telegram-Desktop",
+    "description": "Messaging client",
+    "categories": [
+      "Internet"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No Termux build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Telegram-Desktop/logo.png"
+  },
+  {
+    "app_name": "Notion",
+    "folder_name": "Notion",
+    "description": "Notes and workspace",
+    "categories": [
+      "Productivity"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No Linux build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Notion/logo.png"
+  },
+  {
+    "app_name": "Obsidian",
+    "folder_name": "Obsidian",
+    "description": "Markdown knowledge base",
+    "categories": [
+      "Productivity"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "No Termux ARM build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Obsidian/logo.png"
+  },
+  {
+    "app_name": "Unity Hub",
+    "folder_name": "Unity-Hub",
+    "description": "Unity game engine launcher",
+    "categories": [
+      "Mobile Development"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "x86-64 only",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Unity-Hub/logo.png"
+  },
+  {
+    "app_name": "Unreal Engine",
+    "folder_name": "Unreal-Engine",
+    "description": "Epic game engine",
+    "categories": [
+      "Mobile Development"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "x86-64 only",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Unreal-Engine/logo.png"
+  },
+  {
+    "app_name": "VMware",
+    "folder_name": "VMware",
+    "description": "Virtualization",
+    "categories": [
+      "DevOps & Containers"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "Needs hardware virtualization",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/VMware/logo.png"
+  },
+  {
+    "app_name": "VirtualBox",
+    "folder_name": "VirtualBox",
+    "description": "Virtual machines",
+    "categories": [
+      "DevOps & Containers"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "Needs hardware virtualization",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/VirtualBox/logo.png"
+  },
+  {
+    "app_name": "Wireshark",
+    "folder_name": "Wireshark",
+    "description": "Network protocol analyzer",
+    "categories": [
+      "Security",
+      "Monitoring"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "Needs raw capture privileges unavailable in Termux",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Wireshark/logo.png"
+  },
+  {
+    "app_name": "Burp Suite",
+    "folder_name": "Burp-Suite",
+    "description": "Web security testing",
+    "categories": [
+      "Security"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "Needs a desktop JVM build",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Burp-Suite/logo.png"
+  },
+  {
+    "app_name": "Tableau",
+    "folder_name": "Tableau",
+    "description": "Data visualization",
+    "categories": [
+      "Data Science & AI"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "Windows/macOS only",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Tableau/logo.png"
+  },
+  {
+    "app_name": "Adobe Photoshop",
+    "folder_name": "Adobe-Photoshop",
+    "description": "Image editing",
+    "categories": [
+      "Design & Prototyping"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "Windows/macOS only",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Adobe-Photoshop/logo.png"
+  },
+  {
+    "app_name": "Blender",
+    "folder_name": "Blender",
+    "description": "3D creation suite",
+    "categories": [
+      "Design & Prototyping",
+      "Multimedia"
+    ],
+    "app_type": "unavailable",
+    "run_cmd": "",
+    "supported_arch": "aarch64,arm",
+    "version": "n/a",
+    "package_name": "",
+    "unsupported": "Needs OpenGL 3.3+ not provided by this environment",
+    "install_url": "",
+    "uninstall_url": "",
+    "logo_url": "https://raw.githubusercontent.com/worksuvashxito-dev/Xdesk-AppStore/main/apps/Blender/logo.png"
   }
 ]

@@ -1,5 +1,4 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-progress_phase "cleanup" 0 "Removing nodejs-lts..."
-package_remove_and_check "nodejs-lts"
-progress_done
+echo "Nodejs is a core Xdesk component and cannot be removed."
+exit 1
