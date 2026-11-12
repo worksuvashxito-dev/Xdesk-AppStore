@@ -1,12 +1,9 @@
-# Xdesk AppStore catalog (starter)
+# Xdesk AppStore catalog
 
-Upload this folder as a GitHub repo (e.g. `Xdesk-AppStore`), then replace `worksuvashxito-dev` everywhere.
+- `data/apps.json`  apps shown in the store (each one was tested: install + uninstall on Xdesk)
+- `data/apps-unavailable.json`  apps that do not install on Xdesk yet (kept so they can be restored later)
+- `apps/<Name>/install.sh, uninstall.sh, logo.png`
+- `logos.zip`  all logos, re-create after adding an app: `cd apps && zip -qr ../logos.zip */logo.png`
 
-Layout:
-    data/apps.json          list of apps shown in the store
-    apps/<folder_name>/install.sh, uninstall.sh, logo.png
-
-Add an app:   1) copy an apps/<Name> folder  2) edit its scripts  3) add an entry to data/apps.json
-Update an app: raise "version" in data/apps.json (and edit install.sh if steps changed)
-Remove an app: delete its entry from data/apps.json
-Rules: scripts must start with #!/data/data/com.termux/files/usr/bin/bash ; keep logo.png square, small.
+Add an app: copy an apps/<Name> folder, edit scripts, add an entry to data/apps.json, rebuild logos.zip, push.
+Update an app: raise "version" in data/apps.json. Remove: delete its entry.
